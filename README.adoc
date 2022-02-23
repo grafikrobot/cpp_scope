@@ -14,7 +14,7 @@ to this section.
 If you one of the awesome {CPP} users that just loves the language you can add
 your name to this section.
 
-link:https://github.com/grafikrobot/cpp_scope/blob/main/wg21_letter.adoc[Read Letter]
+link:https://rawcdn.githack.com/grafikrobot/cpp_scope/07e159c863a7f4a5c130b9d1edfbcf14441b6c1c/wg21_letter.html[Read Letter]
 
 link:https://github.com/grafikrobot/cpp_scope/edit/main/wg21_letter.adoc[Co-sign Letter]
 
@@ -26,7 +26,7 @@ Time. At which point it will be sent to the WG21 Convenor for consideration.
 If you are a member of INCITS/PL22.16 you may also consider co-signing a
 corresponding letter to the US national body {CPP} group.
 
-link:https://github.com/grafikrobot/cpp_scope/blob/main/incits_letter.adoc[Read Letter]
+link:https://rawcdn.githack.com/grafikrobot/cpp_scope/07e159c863a7f4a5c130b9d1edfbcf14441b6c1c/incits_letter.html[Read Letter]
 
 link:https://github.com/grafikrobot/cpp_scope/edit/main/incits_letter.adoc[Co-sign Letter]
 
