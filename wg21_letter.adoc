@@ -1,0 +1,65 @@
+= New C++ Scope
+:authors: C++ Community
+:email: grafikrobot@gmail.com
+:revdate: {docdate}
+:version-label!:
+:reproducible:
+:nofooter:
+
+++++
+<style>
+span.ins {
+  text-decoration: underline solid green;
+  text-underline-offset: 0.3em;
+}
+</style>
+++++
+
+To Whom It May Concern,
+
+We are writing asking for consideration towards changes to the wording of the
+"ISO/IEC JTC1/SC22/WG21 STATEMENT OF SCOPE". Which is currently stated as:
+
+[quote]
+____
+Development and maintenance of ISO/IEC Standards, Technical Specifications, and Technical Reports related to the programming language {CPP}.
+____
+
+The scope, as written, has served its purpose of directing the group squarely
+on advancing the language to exciting heights. But in being concise and direct
+it has circumscribed the tasks that WG21 can accomplish to problematic lows.
+In a time when the language is advancing, the community is struggling to manage
+the challenges of the complexity and variability of the tools, technologies,
+and systems that make {CPP} possible (i.e. the {CPP} ecosystem).
+
+It is time we acknowledge that the continued success of {CPP} is tied not
+solely to the language. But that the {CPP} ecosystem and interoperability
+within that ecosystem are key to surmounting the challenges of further growth
+of the language for the benefit of its users.
+
+As such we ask that the scope of {CPP} be explicitly adjusted to encourage
+development of standards to support the {CPP} language and ecosystem.
+A possible expanded scope:
+
+[quote]
+____
+Development and maintenance of ISO/IEC Standards, Technical Specifications, and
+Technical Reports related to the programming language {CPP}[.ins]##,
+supporting tools, supporting technologies, and supporting systems##.
+____
+
+Thank you for the opportunity to voice our concerns and for your consideration
+of this matter.
+
+// If you are a voting member of JTC1/SC22/WG21 and want to cosign this letter
+// please add your name below, on a line by itself, with a parenthetical
+// including your national body and company.
+
+[verse, JTC1/SC22/WG21 Members]
+René Ferdinand Rivera Morell (US - The C++ Alliance)
+
+// If you are a member of the larger C++ language community and want to cosign
+// this letter please add your name below, on a line by itself. You may also
+// add a parenthetical with your country and/or company.
+
+[verse, C++ Users]

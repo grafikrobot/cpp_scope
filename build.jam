@@ -1,0 +1,26 @@
+#|
+Copyright René Ferdinand Rivera Morell 2022
+|#
+
+import asciidoctor ;
+
+project /cpp_scope
+    : requirements <cxxstd>20
+	: build-dir .bin
+    ;
+
+path-constant CSS : stylesheets ;
+
+html incits_letter.html : incits_letter.adoc
+	:
+		<flags>--attribute=stylesheet=$(CSS)/golo.css
+		<flags>--attribute=rouge-style=base16.solarized
+	;
+
+html wg21_letter.html : wg21_letter.adoc
+	:
+		<flags>--attribute=stylesheet=$(CSS)/golo.css
+		<flags>--attribute=rouge-style=base16.solarized
+	;
+
+install html : incits_letter.html wg21_letter.html : <location>. ;

@@ -1,0 +1,69 @@
+= New C++ Charter
+:authors: C++ Community
+:email: grafikrobot@gmail.com
+:revdate: {docdate}
+:version-label!:
+:reproducible:
+:nofooter:
+
+++++
+<style>
+span.ins {
+  text-decoration: underline solid green;
+  text-underline-offset: 0.3em;
+}
+</style>
+++++
+
+To Whom It May Concern,
+
+I am writing asking for consideration towards changes to the wording of the
+"INCITS/PL22.16 - Programming Language {CPP} Charter". Which is currently stated as:
+
+[quote]
+____
+Task Group PL22.16 (formerly J16) is responsible for the technical development of the standard for the {CPP} programming language. The goal of this project is to make it possible for {CPP} programs to be highly portable among different operating systems and across a wide variety of computers. High level of compatibility with the ISO C standard and suitability for the International community are two associated goals established by PL22.16 that will help to extend the useful life of this standard and increase the audience of its users.
+
+This Task Group is the U.S. TAG to ISO/IEC JTC 1 SC22/WG21.
+____
+
+The charter, as written, has served its purpose of directing the group squarely
+on advancing the language to exciting heights. But in being direct it has
+circumscribed the tasks that PL22.16 can accomplish to problematic lows.
+In a time when the language is advancing, the community is struggling to
+manage the challenges of the complexity and variability of the tools,
+technologies, and systems that make {CPP} possible (i.e. the {CPP}
+ecosystem).
+
+It is time we acknowledge that the continued success of {CPP} is tied not
+solely to the language. But that the {CPP} ecosystem and interoperability
+within that ecosystem are key to surmounting the challenges of further growth
+of the language for the benefit of its users.
+
+As such we ask that the charter of PL22.16 be explicitly adjusted to encourage
+development of standards to support the {CPP} language and ecosystem.
+A possible expanded charter:
+
+[quote]
+____
+Task Group PL22.16 (formerly J16) is responsible for the technical development
+of the standard for the {CPP} programming language[.ins]##, supporting tools,
+supporting technologies, and supporting systems##. The goal of this project is
+to make it possible for {CPP} programs to be highly portable among different
+operating systems and across a wide variety of computers. High level of
+compatibility with the ISO C standard and suitability for the International
+community are two associated goals established by PL22.16 that will help to
+extend the useful life of this standard and increase the audience of its users.
+
+This Task Group is the U.S. TAG to ISO/IEC JTC 1 SC22/WG21.
+____
+
+Thank you for the opportunity to voice our concerns and for your consideration
+of this matter.
+
+// If you are a voting member of INCITS/PL22.16 and want to cosign this letter
+// please add your name below, on a line by itself, with a parenthetical
+// including your company.
+
+[verse, INCITS/PL22.16 Members]
+René Ferdinand Rivera Morell (The C++ Alliance)

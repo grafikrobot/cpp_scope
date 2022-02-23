@@ -1,0 +1,36 @@
+= New C++ Charter
+
+== JTC1/SC22/WG21
+
+Thank you for your interest in this open letter to expand the scope of
+{CPP}, i.e. the ISO/IEC JTC1/SC22/WG21. If you would like to co-sign the letter
+please open a pull-request to add you name. In the letter there are two sections:
+
+JTC1/SC22/WG21 Members::
+If you are a voting member of the {CPP} committee, aka WG21, you can add you name
+to this section.
+
+{CPP} Users::
+If you one of the awesome {CPP} users that just loves the language you can add
+your name to this section.
+
+link:https://github.com/grafikrobot/papers/blob/master/wg21/scope/wg21_letter.adoc[Read Letter]
+
+link:https://github.com/grafikrobot/papers/edit/master/wg21/scope/wg21_letter.adoc[Co-sign Letter]
+
+This letter will only be open until March 2, 2022 8:00 AM Central Standard
+Time. At which point it will be sent to the WG21 Convenor for consideration.
+
+== INCITS/PL22.16
+
+If you are a member of INCITS/PL22.16 you may also consider co-signing a
+corresponding letter to the US national body {CPP} group.
+
+link:https://github.com/grafikrobot/papers/blob/master/wg21/scope/incits_letter.adoc[Read Letter]
+
+link:https://github.com/grafikrobot/papers/edit/master/wg21/scope/incits_letter.adoc[Co-sign Letter]
+
+This letter will only be open until February 28, 2022 8:00 AM Central Standard
+Time. At which point it will be sent to at least the INCITS/PL22.16 Chair. This
+period is shorter than the above WG21 letter to fit within the time limit of
+the currently open comment period for review of the charter.
