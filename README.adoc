@@ -1,4 +1,4 @@
-= New C++ Charter
+= New C++ Scope
 
 == JTC1/SC22/WG21
 
