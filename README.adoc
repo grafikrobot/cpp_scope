@@ -1,10 +1,68 @@
 = New C++ Scope
 
+Over the years of my involvement in the {CPP} standardization process there
+has been a desire, and attempts, to standardize aspects of {CPP} that fall
+outside of just the language. For example: build communication and
+description, compiler options, package descriptions, compile database
+descriptions, module dependency specification, module discoverability,
+existence of DLLs. The response to considering those aspects has been either
+"it's out of scope" or "we can only suggest" because the current scope does
+not acknowledge that there is a {CPP} ecosystem of build systems, package
+managers, linkers, files, and so on. This position has not only hindered
+progress in those aspects, it has driven away contributors that wished
+to work towards harmony in such systems.
+
+As the {CPP} language continues to grow in use and capabilities, it is
+paramount that we consider putting it methods to manage the
+complexity of supporting what we can achieve with the language.
+
+_Why choose to add the specific word "supporting tools, supporting
+technologies, and supporting systems"?_
+
+Like the current {CPP} scope (or charter) it hopes to define a category
+of specifications without overly limiting what can be done in the future
+as it is not possible to predict what will be needed. At the same time
+using the key words "supporting" limits the realm squarely in the
+{CPP} language.
+
+Here "tools" pertains to compilers, linkers, build systems,
+package managers, etc that work together to provide us with resulting
+libraries, applications, and packages.
+
+While "technologies" and "systems" refers to the broader space where {CPP}
+code executes and interacts with.
+
+_Isn't this too broad of a statement? You could do anything in that scope._
+
+While technically true that almost anything is possible in choosing those words,
+the eventual acceptance of any proposal that touches in these expanded areas
+still has to survive the consensus based standardization process. Which means
+that any new standard specifications will provide alternative views and
+analysis taking into account the many voices of users and tool implementors
+before advancing. The addition of these words opens the door to taking the
+first step of having a proposal added to the queue to be debated.
+
+_Why does WG21 need to specify this expanded area standardization? Why not
+coordinate with some other standardization body?_
+
+It would be possible to do many of the specifications that one wants and
+needs outside of WG21. But by placing the responsibility outside of WG21
+first creates friction between likely incoherent sets of goals. Such
+incoherence could be resolved with coordination, but that will increase the
+burden on both, or more, organizations. I.e. you would end up achieving
+significantly less with significantly more effort. The current arrangement
+of partitioned field expertise works well in reducing the burden for most
+in the committee when working on standardization. The hope is that the
+standards available with this expanded scope would work alongside and in
+parallel to the current process. Instead of increasing the additional
+burdens greatly.
+
 == JTC1/SC22/WG21
 
 Thank you for your interest in this open letter to expand the scope of
-{CPP}, i.e. the ISO/IEC JTC1/SC22/WG21. If you would like to co-sign the letter
-please open a pull-request to add you name. In the letter there are two sections:
+{CPP}, i.e. the ISO/IEC JTC1/SC22/WG21. If you would like to co-sign the
+letter please open a pull-request to add your name. In the letter there are
+two sections:
 
 JTC1/SC22/WG21 Members::
 If you are a voting member of the {CPP} committee, aka WG21, you can add you name
@@ -17,6 +75,8 @@ your name to this section.
 link:https://rawcdn.githack.com/grafikrobot/cpp_scope/07e159c863a7f4a5c130b9d1edfbcf14441b6c1c/wg21_letter.html[Read Letter]
 
 link:https://github.com/grafikrobot/cpp_scope/edit/main/wg21_letter.adoc[Co-sign Letter]
+by editing in your own branch and subsequently creating a pull-request from
+your branch.
 
 This letter will only be open until March 2, 2022 8:00 AM Central Standard
 Time. At which point it will be sent to the WG21 Convenor for consideration.
@@ -29,6 +89,8 @@ corresponding letter to the US national body {CPP} group.
 link:https://rawcdn.githack.com/grafikrobot/cpp_scope/07e159c863a7f4a5c130b9d1edfbcf14441b6c1c/incits_letter.html[Read Letter]
 
 link:https://github.com/grafikrobot/cpp_scope/edit/main/incits_letter.adoc[Co-sign Letter]
+by editing in your own branch and subsequently creating a pull-request from
+your branch.
 
 This letter will only be open until February 28, 2022 8:00 AM Central Standard
 Time. At which point it will be sent to at least the INCITS/PL22.16 Chair. This
