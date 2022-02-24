@@ -64,4 +64,4 @@ René Ferdinand Rivera Morell (US - The C++ Alliance)
 
 [verse, C++ Users]
 Miro Knejp - C\++ Consultant / Mentor / Engineer
-Jayesh Badwaik - C\++ Developer
+Jayesh Badwaik - C++ Developer
