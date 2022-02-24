@@ -63,5 +63,5 @@ René Ferdinand Rivera Morell (US - The C++ Alliance)
 // add a parenthetical with your country and/or company.
 
 [verse, C++ Users]
-Miro Knejp - C++ Consultant / Mentor / Engineer
-Jayesh Badwaik - C++ Developer
+Miro Knejp - {CPP} Consultant / Mentor / Engineer
+Jayesh Badwaik - {CPP} Developer
