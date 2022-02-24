@@ -65,3 +65,4 @@ René Ferdinand Rivera Morell (US - The C++ Alliance)
 [verse, C++ Users]
 Miro Knejp - {CPP} Consultant / Mentor / Engineer
 Jayesh Badwaik - {CPP} Developer
+Amin Yahyaabadi (@aminya) - Robotics Control Engineer
