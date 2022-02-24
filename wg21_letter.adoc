@@ -66,3 +66,4 @@ René Ferdinand Rivera Morell (US - The C++ Alliance)
 Miro Knejp - {CPP} Consultant / Mentor / Engineer
 Jayesh Badwaik - {CPP} Developer
 Amin Yahyaabadi (@aminya) - Robotics Control Engineer
+Ben Craig - NI.  Vice Chair of WG21 Library Evolution
