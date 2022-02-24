@@ -66,4 +66,4 @@ of this matter.
 // including your company.
 
 [verse, INCITS/PL22.16 Members]
-René Ferdinand Rivera Morell (The C++ Alliance)
+René Ferdinand Rivera Morell (The {CPP} Alliance)

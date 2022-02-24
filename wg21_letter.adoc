@@ -56,7 +56,7 @@ of this matter.
 // including your national body and company.
 
 [verse, JTC1/SC22/WG21 Members]
-René Ferdinand Rivera Morell (US - The C++ Alliance)
+René Ferdinand Rivera Morell (US - The {CPP} Alliance)
 
 // If you are a member of the larger C++ language community and want to cosign
 // this letter please add your name below, on a line by itself. You may also
@@ -68,4 +68,3 @@ Jayesh Badwaik - {CPP} Developer
 Amin Yahyaabadi (@aminya) - Robotics Control Engineer
 Ben Craig - NI.  Vice Chair of WG21 Library Evolution
 Chad Royal - {CPP} Developer
-
