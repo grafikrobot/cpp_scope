@@ -68,3 +68,4 @@ Jayesh Badwaik - {CPP} Developer
 Amin Yahyaabadi (@aminya) - Robotics Control Engineer
 Ben Craig - NI.  Vice Chair of WG21 Library Evolution
 Chad Royal - {CPP} Developer
+Bret Brown - {CPP} Developer
