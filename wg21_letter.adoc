@@ -71,3 +71,4 @@ Chad Royal - {CPP} Developer
 Bret Brown - {CPP} Developer
 Deniz Bahadir - {CPP} and CMake Software Engineer
 Pato Sandana - {CPP} Developer
+Erik Rosengren - {CPP} Developer
