@@ -73,3 +73,4 @@ Deniz Bahadir - {CPP} and CMake Software Engineer
 Pato Sandana - {CPP} Developer
 Erik Rosengren - {CPP} Developer
 Hedayat Vatankhah - {CPP} Developer
+Staffan Tjernstróm - {CPP} Developer. Finance Co-chair of WG21 SG 14
