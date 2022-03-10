@@ -1,5 +1,31 @@
 = New C++ Scope
 
+== 2022-03-10 Update
+
+At the end of last week, i.e. 2022-03-03, I sent the two letter on to INCITS
+and WG21. I am leaving the WG21 letter open for anyone who wants to sign it
+if they so choose.
+
+In the week since the INCTIS letter request was forward to the members
+is being discussed. Although there's no definitive resolution yet, there
+are some assertions from the conversation that are interesting:
+
+* The current charter/scope allows for working on {CPP} Ecosystem topics.
+  Example given is the SG15 work.
+
+* The International Standard ISO/IEC 14882 only allows referring to concepts
+  expressible in the virtual machine as defined in the standard.
+
+* The IS ISO/IEC 14882 could change to allow for things like the debugging
+  support functionality (https://wg21.link/P2546) by adding the appropriate
+  definitional foundation.
+
+Those are my brief interpretations of the conversations so far. There are
+additional questions still up in the air. For example, is it possible to
+create tooling file format International Standards outside of ISO/IEC 14882.
+
+== About
+
 Over the years of my involvement in the {CPP} standardization process there
 has been a desire, and attempts, to standardize aspects of {CPP} that fall
 outside of just the language. For example: build communication and
