@@ -76,3 +76,4 @@ Hedayat Vatankhah - {CPP} Developer
 Staffan Tjernstróm - {CPP} Developer. Finance Co-chair of WG21 SG 14
 Rob Irving - {CPP} Developer, Host of CppCast
 Harald Achitz - {CPP} Developer, build engineer, convenor Swedish JTC1/SC22 mirror
+Salim Pamukcu - Cpp Self Learning Student
